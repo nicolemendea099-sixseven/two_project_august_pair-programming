@@ -72,6 +72,7 @@ Também é possível consultar os clientes cadastrados através da interface.
 Os dados são armazenados em:
 
 dados/clientes.json
+
 💳 FORMAS DE PAGAMENTO
 
 O sistema possui as seguintes formas de pagamento:
