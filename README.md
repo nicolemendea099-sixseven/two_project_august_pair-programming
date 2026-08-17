@@ -1,5 +1,5 @@
 # two_project_august_pair-programming
-👥 Cadastro de Clientes
+#👥 Cadastro de Clientes
 
 O sistema permite registrar informações dos clientes, como:
 
@@ -13,7 +13,7 @@ Também é possível consultar os clientes cadastrados através da interface.
 Os dados são armazenados em:
 
 dados/clientes.json
-💳 Formas de Pagamento
+#💳 Formas de Pagamento
 
 O sistema possui as seguintes formas de pagamento:
 
@@ -26,7 +26,7 @@ No pagamento em dinheiro, o sistema calcula automaticamente o troco.
 
 Caso o valor recebido seja menor que o valor da compra, o pagamento não pode ser confirmado.
 
-🧾 Recibos
+#🧾 Recibos
 
 Depois da finalização de uma venda, o sistema gera um recibo com informações como:
 
@@ -43,7 +43,7 @@ Troco
 
 O recibo pode ser visualizado na aplicação e também salvo em formato .txt.
 
-📊 Relatório de Vendas
+#📊 Relatório de Vendas
 
 O sistema mantém informações sobre as vendas realizadas.
 
@@ -57,13 +57,8 @@ Produto mais vendido.
 As informações são armazenadas em:
 
 dados/relatorio.json
-🔎 Pesquisa de Produtos
 
-O sistema possui uma área de pesquisa para facilitar a localização dos produtos no cardápio.
-
-A pesquisa permite encontrar produtos pelo nome.
-
-🌙 Modo Claro e Escuro
+#🌙 Modo Claro e Escuro
 
 A interface possui dois temas:
 
@@ -72,7 +67,7 @@ A interface possui dois temas:
 
 O usuário pode alternar entre os temas através do botão disponível na interface.
 
-🖥️ Interface Gráfica
+#🖥️ Interface Gráfica
 
 A interface foi desenvolvida utilizando:
 
@@ -101,7 +96,7 @@ Modo claro e escuro.
 
 O projeto utiliza apenas recursos da biblioteca padrão do Python, não sendo necessário instalar bibliotecas externas.
 
-📋 Pré-requisitos
+#📋 Pré-requisitos
 
 Para executar o sistema, é necessário ter:
 
@@ -120,7 +115,7 @@ python padaria_artes.py
 
 A interface da Padaria Artes será aberta automaticamente.
 
-📁 Estrutura do Projeto
+#📁 Estrutura do Projeto
 
 A estrutura do projeto pode ficar assim:
 
@@ -143,7 +138,7 @@ A pasta dados armazena as informações de estoque, clientes e relatórios.
 
 A pasta ticket armazena os pedidos e recibos gerados pelo sistema.
 
-💰 Funcionamento de uma Venda
+#💰 Funcionamento de uma Venda
 
 O processo de venda funciona da seguinte forma:
 
@@ -158,7 +153,7 @@ Atualizar o estoque.
 Registrar a venda.
 Gerar o pedido em JSON.
 Gerar o recibo em TXT.
-📄 Arquivos Gerados
+#📄 Arquivos Gerados
 estoque.json
 
 Armazena as quantidades disponíveis dos produtos.
@@ -179,7 +174,7 @@ Arquivos .txt
 
 Contêm os recibos das compras realizadas.
 
-📌 Informações do Projeto
+#📌 Informações do Projeto
 
 Nome: Padaria Artes
 Linguagem: Python
