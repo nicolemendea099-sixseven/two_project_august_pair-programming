@@ -26,6 +26,7 @@ Calcular automaticamente o total da compra.
 Limpar as quantidades selecionadas.
 Finalizar pedidos.
 Registrar as informações da venda.
+
 🍞 CARDÁPIO
 
 Os produtos são organizados em categorias:
@@ -43,6 +44,7 @@ Descrição
 Preço
 Estoque
 Identificação
+
 📦 CONTROLE DE ESTOQUE
 
 O sistema realiza o controle do estoque dos produtos.
@@ -58,6 +60,7 @@ Armazenamento do estoque em arquivo JSON.
 Os dados são armazenados em:
 
 dados/estoque.json
+
 👥 CADASTRO DE CLIENTES
 
 O sistema permite registrar informações dos clientes, como:
@@ -163,6 +166,7 @@ Para executar o sistema, é necessário ter:
 Python 3 instalado.
 Tkinter disponível na instalação do Python.
 Windows, Linux ou macOS.
+
 ▶️ COMO EXECUTAR
 
 Primeiro, renomeie o arquivo do código para:
